@@ -27,3 +27,6 @@ Jalankan perintah berikut untuk menghasilkan dokumentasi HTML:
 ```bash
 javadoc -d docs src/inventaris/*.java
 ```
+
+# Link Javadocs
+https://aprnna.github.io/javadocs-inventaris/inventaris/package-summary.html
